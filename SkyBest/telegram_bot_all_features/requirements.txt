@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+Flask==2.3.3
+fastapi==0.110.0
+uvicorn==0.29.0
+python-dotenv==1.0.1
+starlette==0.32.0
